@@ -17,6 +17,7 @@ com.crazypig321.lineicons2
 com.vjson.anime
 com.zhaopin.social
 com.coolapk.market
+top.trumeet.mipush
 com.baidu.tieba
 com.zidongdianji
 com.gpstools.gpstestplus
@@ -39,6 +40,7 @@ com.sec.android.daemonapp
 com.wuba
 com.sankuai.meituan
 com.bilibili.app.blue
+make.more.r2d2.cellular_pro
 net.oneplus.weather
 com.taobao.movie.android
 com.cainiao.wireless
@@ -48,6 +50,7 @@ com.tencent.FileManager
 com.tencent.tv.qie
 com.tencent.tim
 czh.mindnode
+com.diting.guardpeople
 com.microsoft.skydrive
 com.picasso.iconpack
 cn.wq.myandroidtools
@@ -58,6 +61,7 @@ mixiaba.com.Browser
 top.linesoft.kiryuu.pandownload
 com.dv.adm.pay
 person.cjy.iconpack.fashion
+com.sec.android.gallery3d
 com.sdu.didi.psnger
 com.str.shitangrenow
 com.mxtech.videoplayer.pro
@@ -72,16 +76,19 @@ com.wpengapp.lightstart
 com.unionpay
 com.tencent.mm
 com.ktls.fileinfo
+com.manmanbuy.bijia
 cn.net.gfan.portal
 com.sinovatech.unicom.ui
 com.alibaba.mobileim
 gov.pianzong.androidnga
+com.sec.android.app.camera
 com.ylmf.androidclient
 com.taobao.etao
 com.netease.cloudmusic
 com.autonavi.minimap
 com.baidu.input
 com.sohu.inputmethod.sogou
+com.taobao.litetao
 com.adobe.lrmobile
 com.hiby.music
 com.xvideostudio.videocompress
@@ -92,6 +99,7 @@ com.One.WoodenLetter
 com.tencent.luckyclover
 rikka.searchbyimage
 cc.fotoplace.app
+org.noear.ddcat
 cn.kuwo.player
 homeworkout.homeworkouts.noequipment
 com.mt.mtxx.mtxx
@@ -108,6 +116,7 @@ com.versa
 com.didikee.gifparser
 com.teamviewer.teamviewer.market.mobile
 com.qihoo.qeditor
+com.suning.mobile.ebuy
 com.lixiangdong.textscanner
 com.vsco.cam
 com.byfen.market
@@ -117,15 +126,18 @@ com.MobileTicket
 com.taobao.taobao
 hdpfans.com
 com.alensw.PicFolder
+com.sec.unifiedwfc
 com.qzone
 com.wochacha
 com.example.xf.negativeonescreen.pro
 com.tencent.token
 com.bankcomm.maidanba
+com.citiccard.mobilebank
 com.lexun99.cut
 com.sec.android.app.ocrservice
 cn.wps.moffice_eng
 com.nasoft.socmark
+com.sec.android.app.samsungapps
 com.estrongs.android.pop
 me.ele
 com.picsart.studio
