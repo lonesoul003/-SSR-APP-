@@ -41,6 +41,7 @@ com.wuba
 com.sankuai.meituan
 com.bilibili.app.blue
 make.more.r2d2.cellular_pro
+com.sina.weibo
 net.oneplus.weather
 com.taobao.movie.android
 com.cainiao.wireless
@@ -61,6 +62,7 @@ mixiaba.com.Browser
 top.linesoft.kiryuu.pandownload
 com.dv.adm.pay
 person.cjy.iconpack.fashion
+com.qq.qcloud
 com.sec.android.gallery3d
 com.sdu.didi.psnger
 com.str.shitangrenow
@@ -68,6 +70,7 @@ com.mxtech.videoplayer.pro
 com.microsoft.office.officelens
 com.jingdong.app.mall
 com.samsung.android.allshare.service.fileshare
+com.iosaber.rocket
 com.google.android.apps.translate
 com.speedsoftware.rootexplorer
 air.tv.douyu.android
@@ -123,6 +126,7 @@ com.byfen.market
 com.alibaba.wireless
 com.samsung.android.allshare.service.mediashare
 com.MobileTicket
+com.koudai.weidian.buyer
 com.taobao.taobao
 hdpfans.com
 com.alensw.PicFolder
